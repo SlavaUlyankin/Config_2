@@ -1,0 +1,8 @@
+{
+  "package_name": "my_package",
+  "repository_url": "https://example.com/repo",
+  "repo_mode": "remote",
+  "output_file": "graph.png",
+  "max_depth": 3,
+  "filter_substring": "utils"
+}
